@@ -1,1 +1,1 @@
-print("first and ")
+print("first and second")
